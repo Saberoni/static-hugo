@@ -1,4 +1,4 @@
-# Static Site
+# static-hugo
 
 ## Development
 
