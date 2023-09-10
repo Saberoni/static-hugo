@@ -46,6 +46,6 @@
 	"features": {},
 	
 	"mounts": [
-		"type=bind,source=${localEnv:HOME}/.ssh,target=/node/.ssh,readonly"
+		"type=bind,source=${localEnv:HOME}/.ssh,target=/home/node/.ssh,readonly"
 	]
 }
